@@ -1,0 +1,33 @@
+.confirmation-content {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.confirmation-content .gambar-success {
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 20px;
+}
+
+.confirmation-content a.btn-backto-dasboard {
+  padding: 18px 20px;
+  margin-top: 20px;
+  background-color: #000069;
+  color: white;
+}
+
+.confirmation-content a.btn-backto-dasboard:hover {
+  background-color: #000083;
+}
+/*# sourceMappingURL=sukses.css.map */
